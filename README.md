@@ -1,2 +1,2 @@
-# EQIP
-Advanced GIS final project using ArcPy, Getis-Ord, and Mann-Kendall trend test to determine spatiotemporal trends in EQIP acreage, contracts, and dollars
+
+![Slide1](https://github.com/chad-fisher/EQIP/assets/150188438/d8a1ae0a-3bde-445d-94d3-d96ec5328eb9)
