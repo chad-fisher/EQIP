@@ -2,6 +2,6 @@
 
 
 <tableau-viz id="tableauViz"       
-  src='(https://public.tableau.com/app/profile/chad.fisher5536/viz/EQIPVisuals/EQIP2014-2023)'      
+  src='https://public.tableau.com/app/profile/chad.fisher5536/viz/EQIPVisuals/EQIP2014-2023'      
   toolbar="bottom" hide-tabs>
 </tableau-viz>
