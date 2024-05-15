@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Basic Embedding via Web Component</title>
-    <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js"></script>
+    <script type="module" src='https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js'></script>
 </head>
 
 <body>
